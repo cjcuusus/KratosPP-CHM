@@ -1,0 +1,717 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+   <OBJECT type="text/site properties"> 
+     <param name="FrameName" value="right">
+     <param name="Font" value=",8,0">
+     <param name="ImageType" value="Book">
+     <param name="Window Styles" value="0x27">
+     <param name="ExWindow Styles" value="0x0">
+   </OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="简介">
+<param name="Local" value="简介.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="全局">
+<param name="Local" value="">
+<param name="ImageNumber" value="2">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="全局设置">
+<param name="Local" value="全局设置.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="重制Vxl碎片逻辑">
+<param name="Local" value="重制Vxl碎片逻辑.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="阵营默认伪装坦克">
+<param name="Local" value="阵营默认伪装坦克.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示血量数字">
+<param name="Local" value="显示血量数字.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示伤害数字">
+<param name="Local" value="显示伤害数字.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示可建造范围">
+<param name="Local" value="显示可建造范围1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="ART">
+<param name="Local" value="新建项目.htm">
+<param name="ImageNumber" value="2">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="自定义尾巴">
+<param name="Local" value="新建项目1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="步兵单位卧倒时的FLH设置">
+<param name="Local" value="步兵单位卧倒时的FLH设置.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="武器FLH不跟随炮塔转动，以车身前方计算">
+<param name="Local" value="武器FLH不跟随炮塔转动，以车身前方计算.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="武器FLH不以自己计算，以目标位置计算">
+<param name="Local" value="武器FLH不以自己计算，以目标位置计算.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞机在停机坪的朝向">
+<param name="Local" value="飞机在停机坪的朝向.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画">
+<param name="Local" value="动画.htm">
+<param name="ImageNumber" value="2">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画播放时一并发射超级武器">
+<param name="Local" value="动画播放时一并发射超级武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自定义碎片\流星落水动画">
+<param name="Local" value="自定义碎片_流星落水动画.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画伤害扩展">
+<param name="Local" value="动画伤害扩展.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画按所属显示">
+<param name="Local" value="动画按所属显示.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画挂替身">
+<param name="Local" value="动画挂替身.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画染色">
+<param name="Local" value="动画染色.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画释放新的动画">
+<param name="Local" value="动画释放新的动画.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="AttachEffect系统">
+<param name="Local" value="AttachEffect系统.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="附加AE">
+<param name="Local" value="附加AE.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="通用设置">
+<param name="Local" value="通用设置.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="效果模块">
+<param name="Local" value="效果模块.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="动画">
+<param name="Local" value="动画1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="属性增强">
+<param name="Local" value="属性增强.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示信息">
+<param name="Local" value="显示信息.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="替身">
+<param name="Local" value="替身.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="标记">
+<param name="Local" value="标记.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="攻击信标（嘲讽）">
+<param name="Local" value="攻击信标（嘲讽）.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自动武器">
+<param name="Local" value="自动武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自伤">
+<param name="Local" value="自伤.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="广播AE">
+<param name="Local" value="广播AE.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="刷怪笼">
+<param name="Local" value="刷怪笼.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="【状态类型】模块">
+<param name="Local" value="【状态类型】模块.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="彩弹">
+<param name="Local" value="彩弹.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自毁">
+<param name="Local" value="自毁.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="变形">
+<param name="Local" value="变形.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="黑洞">
+<param name="Local" value="黑洞.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="礼盒">
+<param name="Local" value="礼盒.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="【单位专用】模块">
+<param name="Local" value="【单位专用】模块.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="免疫特殊攻击">
+<param name="Local" value="免疫特殊攻击.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="复仇">
+<param name="Local" value="复仇.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="吸血鬼">
+<param name="Local" value="吸血鬼.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="额外武器">
+<param name="Local" value="额外武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="发射超级武器">
+<param name="Local" value="发射超级武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="单位【状态类型】模块">
+<param name="Local" value="单位【状态类型】模块.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="得加钱">
+<param name="Local" value="得加钱.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="武器禁用">
+<param name="Local" value="武器禁用.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="武器覆盖">
+<param name="Local" value="武器覆盖.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="禁止选择">
+<param name="Local" value="禁止选择.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="停止运动">
+<param name="Local" value="停止运动.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="伤害响应系统">
+<param name="Local" value="伤害响应系统.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="传送">
+<param name="Local" value="传送.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="死亡动画">
+<param name="Local" value="死亡动画.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="气泵">
+<param name="Local" value="气泵.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="分散">
+<param name="Local" value="分散.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="抛射体专用模块">
+<param name="Local" value="抛射体专用模块.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="抛射体弹跳">
+<param name="Local" value="抛射体弹跳.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ECM电子对抗">
+<param name="Local" value="ECM电子对抗.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="单位">
+<param name="Local" value="单位.htm">
+<param name="ImageNumber" value="2">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="默认伪装坦克">
+<param name="Local" value="默认伪装坦克.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="反抛射体">
+<param name="Local" value="反抛射体.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="按射程选用副武器">
+<param name="Local" value="按射程选用副武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自动朝脚下发射武器">
+<param name="Local" value="自动朝脚下发射武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="发射武器时一并发射超级武器">
+<param name="Local" value="发射武器时一并发射超级武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="嘲讽">
+<param name="Local" value="嘲讽.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="热诱弹">
+<param name="Local" value="热诱弹.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="移动建造节点">
+<param name="Local" value="移动建造节点.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示可建造范围">
+<param name="Local" value="显示可建造范围.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示血量数字">
+<param name="Local" value="显示血量数字1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Jumpjet吊运">
+<param name="Local" value="Jumpjet吊运.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="单位死亡动画">
+<param name="Local" value="单位死亡动画.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="残骸">
+<param name="Local" value="残骸.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自毁">
+<param name="Local" value="自毁1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自伤">
+<param name="Local" value="自伤1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="礼盒">
+<param name="Local" value="礼盒1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Jumpjet载具攻击时面向目标">
+<param name="Local" value="Jumpjet载具攻击时面向目标.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="支援子机的武器">
+<param name="Local" value="支援子机的武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="子机管理器增强">
+<param name="Local" value="子机管理器增强.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="额外武器">
+<param name="Local" value="额外武器1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="替换武器">
+<param name="Local" value="替换武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="虚拟单位">
+<param name="Local" value="虚拟单位.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="禁止选择">
+<param name="Local" value="禁止选择1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="步兵">
+<param name="Local" value="步兵.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="单位部署变形">
+<param name="Local" value="变形1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="关闭空袭的激光笔、染色、闪烁等">
+<param name="Local" value="关闭空袭的激光笔、染色、闪烁等.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="车辆">
+<param name="Local" value="车辆.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="SHP IFV">
+<param name="Local" value="SHP_IFV.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="乘客索敌设置">
+<param name="Local" value="乘客索敌设置.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="单位部署变形">
+<param name="Local" value="单位部署变形.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="炮塔默认角度">
+<param name="Local" value="炮塔默认角度.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="炮塔旋转界限">
+<param name="Local" value="炮塔旋转界限.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="侧舷接敌">
+<param name="Local" value="侧舷接敌.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞行器">
+<param name="Local" value="飞行器.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞行器俯冲">
+<param name="Local" value="飞行器俯冲.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞行器区域警戒巡航">
+<param name="Local" value="飞行器区域警戒巡航.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="子机导弹跟踪和朝向目标生成">
+<param name="Local" value="子机导弹跟踪和朝向目标生成.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞行器俯仰自动调整">
+<param name="Local" value="飞行器俯仰自动调整.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞行器在空中的影子大小缩放比例">
+<param name="Local" value="飞行器在空中的影子大小缩放比例.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="飞机出生位置强制偏移">
+<param name="Local" value="飞机出生位置强制偏移.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="弹头">
+<param name="Local" value="弹头.htm">
+<param name="ImageNumber" value="2">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="单位死亡动画">
+<param name="Local" value="单位死亡动画1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="清除目标弹头">
+<param name="Local" value="清除目标弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="卸下伪装">
+<param name="Local" value="卸下伪装.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="强制任务弹头">
+<param name="Local" value="强制任务弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="通过弹头附加AE">
+<param name="Local" value="通过弹头附加AE.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="黑洞弹头">
+<param name="Local" value="黑洞弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="传送点">
+<param name="Local" value="传送点.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="不触发复仇响应弹头">
+<param name="Local" value="不触发复仇响应弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="不触发伤害响应弹头">
+<param name="Local" value="不触发伤害响应弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="忽略替身分享伤害">
+<param name="Local" value="忽略替身分享伤害.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="玩具弹头">
+<param name="Local" value="玩具弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="等级弹头">
+<param name="Local" value="等级弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="欠揍弹头">
+<param name="Local" value="欠揍弹头.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="弹头爆炸获得金钱">
+<param name="Local" value="弹头爆炸获得金钱.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="显示伤害数字">
+<param name="Local" value="显示伤害数字1.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="抛射体">
+<param name="Local" value="抛射体.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="抛射体血量">
+<param name="Local" value="抛射体血量.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="精准的Arcing弹道">
+<param name="Local" value="精准的Arcing弹道.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="直线弹道">
+<param name="Local" value="直线弹道.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="触碰引信详细设置">
+<param name="Local" value="触碰引信详细设置.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="弹跳的Arcing">
+<param name="Local" value="弹跳的Arcing.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="自毁">
+<param name="Local" value="自毁2.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="翻转导弹类型抛射体初始发射方向">
+<param name="Local" value="翻转导弹类型抛射体初始发射方向.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="微调晃动导弹类型抛射体初始方向">
+<param name="Local" value="微调晃动导弹类型抛射体初始方向.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="武器">
+<param name="Local" value="武器.htm">
+<param name="ImageNumber" value="1">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="提前引爆抛射体">
+<param name="Local" value="提前引爆抛射体.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="激光笔">
+<param name="Local" value="激光笔.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="附加武器详细设置">
+<param name="Local" value="附加武器详细设置.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="抬头模拟后座力">
+<param name="Local" value="抬头模拟后座力.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="把自己发射出去">
+<param name="Local" value="把自己发射出去.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="把自己弹射出去">
+<param name="Local" value="把自己弹射出去.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="把乘客弹射出去">
+<param name="Local" value="把乘客弹射出去.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="需要金钱才能发射该武器">
+<param name="Local" value="需要金钱才能发射该武器.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="其它逻辑">
+<param name="Local" value="其它逻辑.htm">
+<param name="ImageNumber" value="2">
+</OBJECT>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="地形死亡动画">
+<param name="Local" value="地形死亡动画.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="关于Kratos">
+<param name="Local" value="关于Kratos.htm">
+<param name="ImageNumber" value="11">
+</OBJECT>
+</UL>
+</BODY>
+</HTML>
