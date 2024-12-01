@@ -1,0 +1,234 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>通用设置</title>
+<meta name="GENERATOR" content="WinCHM">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style>
+html,body { 
+	/* Default Font */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+}
+</style>
+
+
+
+
+<style>
+html,div { margin: 0; padding: 0;}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	overflow: auto;
+	height: 100%;
+}
+
+#winchm_template_button{
+	float: right;
+	width: 93px;
+	top: 7px;
+	position: relative;
+	text-align: right;
+	right: 5px;
+	height: auto;
+}
+
+#winchm_template_top{
+	padding: 0px;
+	margin: 0px;
+	border-bottom: 1px solid #9B9B9B;
+	background-color: #B1CEFE;
+}
+
+#winchm_template_navigation{
+	margin: 0px;
+	padding-top: 7px;
+	padding-left: 7px;
+	padding-bottom: 3px;
+	padding-right: 0px;
+	font-size: 8.5pt;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #585858;
+}
+
+#winchm_template_title{
+	margin: 0px;
+	padding-top: 4px;
+	padding-left: 7px;
+	padding-bottom: 7px;
+	padding-right: 0px;
+	font-size: 18px; 
+	font-family: Verdana, Geneva, sans-serif;
+	color: #363636;
+}
+
+#winchm_template_content{
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	width: auto  !important;
+	width: 100%;
+}
+
+#winchm_template_footer{
+	border-width: 1px;
+	border-color: #B1CEFE;
+	border-top-style: solid;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	padding-top: 7px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 8.5pt;
+	color: #696969;
+	width: auto;
+	text-align: left;
+}
+
+
+#winchm_template_container{
+	margin: 0px;
+	padding: 0px;
+	position: static;
+	padding-bottom: 3px;
+	overflow: auto;
+	background-color: #FFFFFF;
+}
+
+
+#winchm_template_navigation A:link	{text-decoration: none; color:#004080}
+#winchm_template_navigation A:visited  {text-decoration: none; color: #004080}
+#winchm_template_navigation A:active {text-decoration: none; color: #004080 }
+#winchm_template_navigation A:hover {text-decoration: none;color: #0080FF}
+
+A:link	{text-decoration: underline; color:#0033CC}
+A:visited  {text-decoration: underline; color: #0033CC}
+A:active {text-decoration: underline; color: #0033CC }
+A:hover {text-decoration: underline;color: #FF0000;}
+</style>
+<script type="text/javascript">
+function isMobile(){
+Agent = window.navigator.userAgent;
+if (Agent.indexOf("iPhone")>=1 || Agent.indexOf("iPad")>=1 || Agent.indexOf("iPod")>=1 || Agent.indexOf("Android")>=1){
+return true;
+}else{
+return false;	
+}
+
+}
+function d_onresize(){
+if (window.navigator.userAgent.indexOf("MSIE")>=1){
+document.getElementById('winchm_template_container').style.pixelWidth = document.body.offsetWidth - 3;
+document.getElementById('winchm_template_container').style.pixelHeight = document.body.offsetHeight - document.getElementById('winchm_template_top').offsetHeight - 4;
+}
+document.getElementById('winchm_template_container').style.top = document.getElementById('winchm_template_top').offsetHeight + 'px';
+}
+
+function d_onbeforeprint(){
+if (window.navigator.userAgent.indexOf("MSIE")>=1){
+document.getElementById('winchm_template_container').style.height = 'auto';
+}
+}
+
+function d_onafterprint(){
+d_onresize();
+}
+
+if(!isMobile()){
+
+window.onload = d_onresize;
+window.onresize = d_onresize;
+window.onbeforeprint = d_onbeforeprint;
+window.onafterprint = d_onafterprint;
+
+document.write("<style>\n");
+document.write("body {overflow: hidden;}\n");
+document.write("#winchm_template_container {position: absolute;overflow: auto;top : 0px;right: 0px;bottom: 0px;left: 0px;}\n");
+document.write("</style>\n");
+}
+
+</script>
+<style>
+@media print
+{
+body {
+	padding: 0px;
+	margin: 0px;
+	overflow: auto;
+	height: auto;
+}
+#winchm_template_container{
+	position: static;	
+	margin: 0px;
+	padding: 5px;
+	
+	width: auto;
+	height: auto;
+	overflow: hidden;
+}
+#winchm_template_button{
+visibility:hidden;
+}
+}
+</style>
+</head>
+
+<body>
+
+<div id="winchm_template_top">
+	<div id="winchm_template_button"><A title="Previous topic" href="附加AE.htm" ><IMG id=winchm_template_prev border=0 alt ="Previous topic" src="template2/btn_prev_n.gif" ></A><A title="Next topic" href="效果模块.htm" ><IMG id=winchm_template_next border=0 alt ="Next topic" src="template2/btn_next_n.gif" ></A></div>
+	<div id="winchm_template_navigation">Help &gt; 
+<A href="AttachEffect系统.htm">AttachEffect系统</A> &gt; </div>
+	<div id="winchm_template_title">通用设置</div>
+</div>
+<div id="winchm_template_container">
+	<div id="winchm_template_content"><EM>[AttachEffectType]<BR>; 通用设置<BR>Duration=1 
+;持续时间，设置的值大于0，将启动计时器。负值时该AE不被赋予，但赋予时如果遇到同组的AE将削减其持续时间并启动有效期计时<BR>HoldDuration=yes 
+;不进行有效期计时，即无限时间<BR>ResetDurationOnReapply=no 
+;如果不允许叠加，持续过程中重复赋予时是否重置计时器<BR>Delay=0 ;AE失效后多久无法再获得<BR>RandomDelay=0,1 
+;随机Delay，设置最小值和最大值，如果设置上一条不起作用<BR>InitialDelay=0 
+;获得AE后多久生效<BR>InitialRandomDelay=0,1 
+;随机初始延迟，设置最小值和最大值，如果设置上一条不起作用<BR>DiscardOnEntry=no 
+;离开地图后是否即刻失效<BR>DiscardOnTransform=yes 
+;发生类型改变时即刻失效，变形AE强制为no<BR>PenetratesIronCurtain=no 
+;用于弹头附加时是否穿透铁幕<BR>FromTransporter=yes ;乘客使用弹头附加时，视为乘坐的载具使用弹头附加<BR>ReceiverOwn=no 
+;AE属于被赋予对象，不属于来源< 
+BR>Cumulative=no;是否允许同名AE进行叠加，yes=可叠加作用；no=不可叠加；attacker=来源不同的攻击者允许叠加；house=来源不同的所属允许叠加<BR>MaxStack=-1 
+;允许叠加的层数上限<BR>Group=-1 ;分组，同一个分组的效果互相影响，削减或增加持续时间<BR>OverrideSameGroup=no 
+;同一个分组已存在，再赋予则覆盖<BR>Next=StandTest1 ;AE结束后进入下一个AE<BR>; 
+触发控制，仅对TechnoType有效<BR>ActiveWhenHealthPrecent=100% 
+;血量低于该比例时激活效果器<BR>DeactiveWhenHealthPrecent=0% ;血量低于该比例时暂停效果器<BR>; 
+附加方式精确控制<BR>AttachWithOutTypes=AE1,AE2 
+;身上有这些AE，则不可赋予<BR>AttachOnceInTechnoType=no 
+;用于出厂附加时，只在单位生成时附加一次，不会在Delay后重新获得<BR>AttachNeedMoney=0 
+;1000表示当来源持有1000金币以上时才可以赋予，-1000金币时需要来源金币低于1000时才可以赋予<BR>ReceiverNeedMoney=0 
+;1000表示当附着对象持有1000金币以上时才可以赋予，-1000金币时需要被赋予对象金币低于1000时才可以赋予<BR>Inheritable=yes 
+;当使用GiftBox变身并且InheritAE的时候，该AE是否可以被继承，带有GiftBox的AE强制无法继承<BR>; 
+赋予对象过滤器专属设置<BR>AffectTypes=none 
+;类型过滤，可影响的单位，如果设置，则只可以影响列表中的单位<BR>NotAffectTypes=none 
+;类型过滤，不可影响的单位，如果设置，则列表中的单位不被吸引，优先级更高<BR>; 可赋予单位详细设置<BR>AffectTechno=yes 
+;类型过滤，是否可以赋予单位（注意Affect没有s）<BR>AffectBuilding=yes 
+;类型过滤，可赋予建筑<BR>AffectInfantry=yes ;类型过滤，可赋予步兵<BR>AffectUnit=yes 
+;类型过滤，可赋予载具<BR>AffectAircraft=yes ;类型过滤，可赋予飞机<BR>; 可赋予抛射体详细设置<BR>AffectBullet=no 
+;类型过滤，是否可以赋予抛射体（注意Affect没有s）<BR>AffectMissile=yes 
+;类型过滤，影响ROT&gt;0的抛射体<BR>AffectTorpedo=yes 
+;类型过滤，影响Level=yes的抛射体<BR>AffectCannon=yes 
+;类型过滤，影响Arcing=yes的抛射体<BR>AffectBomb=yes ;类型过滤，影响Vertical=yes的抛射体<BR>; 
+只能赋予被标记的对象<BR>NotAffectMarks=none ;不能影响带有这些标记的对象<BR>OnlyAffectMarks=none 
+;只影响带有这些标记的对象</EM> 
+ <EM>             </EM></div>	
+	<div id="winchm_template_footer">     
+          &nbsp;</div>
+</div>
+
+</body>
+</html>

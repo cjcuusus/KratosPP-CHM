@@ -1,0 +1,243 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>伤害响应系统</title>
+<meta name="GENERATOR" content="WinCHM">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style>
+html,body { 
+	/* Default Font */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+}
+</style>
+
+
+
+
+<style>
+html,div { margin: 0; padding: 0;}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	overflow: auto;
+	height: 100%;
+}
+
+#winchm_template_button{
+	float: right;
+	width: 93px;
+	top: 7px;
+	position: relative;
+	text-align: right;
+	right: 5px;
+	height: auto;
+}
+
+#winchm_template_top{
+	padding: 0px;
+	margin: 0px;
+	border-bottom: 1px solid #9B9B9B;
+	background-color: #B1CEFE;
+}
+
+#winchm_template_navigation{
+	margin: 0px;
+	padding-top: 7px;
+	padding-left: 7px;
+	padding-bottom: 3px;
+	padding-right: 0px;
+	font-size: 8.5pt;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #585858;
+}
+
+#winchm_template_title{
+	margin: 0px;
+	padding-top: 4px;
+	padding-left: 7px;
+	padding-bottom: 7px;
+	padding-right: 0px;
+	font-size: 18px; 
+	font-family: Verdana, Geneva, sans-serif;
+	color: #363636;
+}
+
+#winchm_template_content{
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	width: auto  !important;
+	width: 100%;
+}
+
+#winchm_template_footer{
+	border-width: 1px;
+	border-color: #B1CEFE;
+	border-top-style: solid;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	padding-top: 7px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 8.5pt;
+	color: #696969;
+	width: auto;
+	text-align: left;
+}
+
+
+#winchm_template_container{
+	margin: 0px;
+	padding: 0px;
+	position: static;
+	padding-bottom: 3px;
+	overflow: auto;
+	background-color: #FFFFFF;
+}
+
+
+#winchm_template_navigation A:link	{text-decoration: none; color:#004080}
+#winchm_template_navigation A:visited  {text-decoration: none; color: #004080}
+#winchm_template_navigation A:active {text-decoration: none; color: #004080 }
+#winchm_template_navigation A:hover {text-decoration: none;color: #0080FF}
+
+A:link	{text-decoration: underline; color:#0033CC}
+A:visited  {text-decoration: underline; color: #0033CC}
+A:active {text-decoration: underline; color: #0033CC }
+A:hover {text-decoration: underline;color: #FF0000;}
+</style>
+<script type="text/javascript">
+function isMobile(){
+Agent = window.navigator.userAgent;
+if (Agent.indexOf("iPhone")>=1 || Agent.indexOf("iPad")>=1 || Agent.indexOf("iPod")>=1 || Agent.indexOf("Android")>=1){
+return true;
+}else{
+return false;	
+}
+
+}
+function d_onresize(){
+if (window.navigator.userAgent.indexOf("MSIE")>=1){
+document.getElementById('winchm_template_container').style.pixelWidth = document.body.offsetWidth - 3;
+document.getElementById('winchm_template_container').style.pixelHeight = document.body.offsetHeight - document.getElementById('winchm_template_top').offsetHeight - 4;
+}
+document.getElementById('winchm_template_container').style.top = document.getElementById('winchm_template_top').offsetHeight + 'px';
+}
+
+function d_onbeforeprint(){
+if (window.navigator.userAgent.indexOf("MSIE")>=1){
+document.getElementById('winchm_template_container').style.height = 'auto';
+}
+}
+
+function d_onafterprint(){
+d_onresize();
+}
+
+if(!isMobile()){
+
+window.onload = d_onresize;
+window.onresize = d_onresize;
+window.onbeforeprint = d_onbeforeprint;
+window.onafterprint = d_onafterprint;
+
+document.write("<style>\n");
+document.write("body {overflow: hidden;}\n");
+document.write("#winchm_template_container {position: absolute;overflow: auto;top : 0px;right: 0px;bottom: 0px;left: 0px;}\n");
+document.write("</style>\n");
+}
+
+</script>
+<style>
+@media print
+{
+body {
+	padding: 0px;
+	margin: 0px;
+	overflow: auto;
+	height: auto;
+}
+#winchm_template_container{
+	position: static;	
+	margin: 0px;
+	padding: 5px;
+	
+	width: auto;
+	height: auto;
+	overflow: hidden;
+}
+#winchm_template_button{
+visibility:hidden;
+}
+}
+</style>
+</head>
+
+<body>
+
+<div id="winchm_template_top">
+	<div id="winchm_template_button"><A title="Previous topic" href="停止运动.htm" ><IMG id=winchm_template_prev border=0 alt ="Previous topic" src="template2/btn_prev_n.gif" ></A><A title="Next topic" href="传送.htm" ><IMG id=winchm_template_next border=0 alt ="Next topic" src="template2/btn_next_n.gif" ></A></div>
+	<div id="winchm_template_navigation">Help &gt; 
+<A href="AttachEffect系统.htm">AttachEffect系统</A> &gt; <A href="单位【状态类型】模块.htm">单位【状态类型】模块</A> &gt; </div>
+	<div id="winchm_template_title">伤害响应系统</div>
+</div>
+<div id="winchm_template_container">
+	<div id="winchm_template_content">; 模块：伤害响应系统，状态类型 —— 
+AE生效期间，收到伤害时触发，多种类型，当单位受伤时，对收到的伤害数值进行调整，或启用刚毅盾<BR>; EVASION = 
+闪避伤害，触发时该次伤害无效化<BR>; REDUCE = 伤害调整，触发时将收到的伤害乘以该比例<BR>; FORTITUDE = 
+刚毅护盾，触发时对伤害超过阈值的伤害削减至阈值<BR>; PREVENT = 
+免疫死亡，触发时对伤害超过自身血量的伤害无效化<BR>DamageReaction.Mode=EVASION 
+;伤害响应模式，EVASION\REDUCE\FORTITUDE\PREVENT，<BR>DamageReaction.Chance=0% 
+;触发伤害响应的概率<BR>DamageReaction.Delay=0 
+;成功触发一次之后到下一次允许触发的延迟<BR>DamageReaction.ActiveOnce=no 
+;触发之后在当前帧结束后结束效果<BR>DamageReaction.TriggeredTimes=-1 
+;可触发的次数，次数用完立刻强制结束效果<BR>DamageReaction.ResetTriggeredTimes=no 
+;当单位从精英变成新兵时重置计数器<BR>DamageReaction.TriggeredAttachEffects=AE1,AE2 
+;触发响应时为自己添加AE<BR>DamageReaction.TriggeredAttachEffectChances=100%,100% 
+;附加效果的成功率<BR>DamageReaction.TriggeredAttachEffectsFromAttacker=no 
+;触发响应时为自己添加的AE来源是攻击者<BR>DamageReaction.Anim=NONE 
+;触发伤害响应的动画<BR>DamageReaction.AnimFLH=0,0,0 
+;触发伤害响应的动画位置<BR>DamageReaction.AnimDelay=0 
+;播放一次动画后到下一次允许播放的延迟<BR>DamageReaction.ReducePercent=100% 
+;伤害调整比例<BR>DamageReaction.FortitudeMax=10 
+;刚毅盾最高伤害<BR>DamageReaction.ActionText=yes 
+;响应激活时显示DamageText，默认EVASION激活显示MISS，PREVENT激活显示BLOCK，REDUCE增益时显示CRIT，REDUCE减益与FORTITUDE激活时显示GLANCING<BR>DamageReaction.ActionTextStyle=AUTO 
+;显示的DamageText的样式，AUTO\DAMAGE\REPAIR，对应两种DamageText设置<BR>DamageReaction.ActionTextCustom=NONE 
+;响应激活时显示自定义文字，设为NONE之外的文字开启该功能，注意不可以开启DamageText.UseSHP，因为没有对应的图像可以显示<BR>DamageReaction.ActionTextSHP=pipstext.shp 
+;响应激活时显示SHP图像，如果设置将使用shp文件渲染<BR>DamageReaction.ActionTextSHPIndex=2 
+;响应激活图像在SHP文件的帧序号<BR>DamageReaction.EliteMode=EVASION 
+;精英时伤害响应模式，EVASION\REDUCE\FORTITUDE\PREVENT，<BR>DamageReaction.EliteChance=0% 
+;精英时触发伤害响应的概率<BR>DamageReaction.EliteDelay=0 
+;精英时成功触发一次之后到下一次允许触发的延迟<BR>DamageReaction.EliteActiveOnce=no 
+;精英时触发之后在当前帧结束后结束效果<BR>DamageReaction.EliteTriggeredTimes=-1 
+;精英时可触发的次数，次数用完立刻强制结束效果<BR>DamageReaction.EliteResetTriggeredTimes=no 
+;当单位从新兵变成精英时重置计数器，该属性不会继承新兵设置<BR>DamageReaction.EliteTriggeredAttachEffects=AE1,AE2 
+;精英时触发响应时为自己添加AE<BR>DamageReaction.EliteTriggeredAttachEffectChances=100%,100% 
+;精英时附加效果的成功率<BR>DamageReaction.EliteTriggeredAttachEffectsFromAttacker=no 
+;精英时触发响应时为自己添加的AE来源是攻击者<BR>DamageReaction.EliteAnim=NONE 
+;精英时触发伤害响应的动画<BR>DamageReaction.EliteAnimFLH=0,0,0 
+;精英时触发伤害响应的动画位置<BR>DamageReaction.EliteAnimDelay=0 
+;精英时播放一次动画后到下一次允许播放的延迟<BR>DamageReaction.EliteReducePercent=100% 
+;精英时伤害调整比例<BR>DamageReaction.EliteFortitudeMax=10 
+;精英时刚毅盾最高伤害<BR>DamageReaction.EliteActionText=yes 
+;精英时响应激活时显示DamageText，默认EVASION激活显示MISS，PREVENT激活显示BLOCK，REDUCE增益时显示CRIT，REDUCE减益与FORTITUDE激活时显示GLANCING<BR>DamageReaction.EliteActionTextStyle=AUTO 
+;精英时显示的DamageText的样式，AUTO\DAMAGE\REPAIR，对应两种DamageText设置<BR>DamageReaction.EliteActionTextCustom=NONE 
+;精英时响应激活时显示自定义文字，设为NONE之外的文字开启该功能，注意不可以开启DamageText.UseSHP，因为没有对应的图像可以显示<BR>DamageReaction.EliteActionTextSHP=pipstext.shp 
+;精英时响应激活时显示SHP图像，如果设置将使用shp文件渲染<BR>DamageReaction.EliteActionTextSHPIndex=2 
+;精英时响应激活图像在SHP文件的帧序号<BR>; 影响特定对象<BR>DamageReaction.OnlyReactionWarheads=none 
+;只对这些弹头响应</div>	
+	<div id="winchm_template_footer">     
+          &nbsp;</div>
+</div>
+
+</body>
+</html>
