@@ -20,7 +20,7 @@
 <LI><OBJECT type="text/sitemap">
 <param name="Name" value="全局">
 <param name="Local" value="">
-<param name="ImageNumber" value="2">
+<param name="ImageNumber" value="1">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="全局设置">
@@ -55,7 +55,7 @@
 </UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="ART">
 <param name="Local" value="新建项目.htm">
-<param name="ImageNumber" value="2">
+<param name="ImageNumber" value="1">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="自定义尾巴">
@@ -85,7 +85,7 @@
 <LI><OBJECT type="text/sitemap">
 <param name="Name" value="动画">
 <param name="Local" value="动画.htm">
-<param name="ImageNumber" value="2">
+<param name="ImageNumber" value="1">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="动画播放时一并发射超级武器">
@@ -325,7 +325,7 @@
 </UL></UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="单位">
 <param name="Local" value="单位.htm">
-<param name="ImageNumber" value="2">
+<param name="ImageNumber" value="1">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="默认伪装坦克">
@@ -530,7 +530,7 @@
 </UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="弹头">
 <param name="Local" value="弹头.htm">
-<param name="ImageNumber" value="2">
+<param name="ImageNumber" value="1">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="单位死亡动画">
@@ -700,7 +700,7 @@
 </UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="其它逻辑">
 <param name="Local" value="其它逻辑.htm">
-<param name="ImageNumber" value="2">
+<param name="ImageNumber" value="1">
 </OBJECT>
 <UL><LI><OBJECT type="text/sitemap">
 <param name="Name" value="地形死亡动画">

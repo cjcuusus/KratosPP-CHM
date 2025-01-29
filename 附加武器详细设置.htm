@@ -201,9 +201,7 @@ visibility:hidden;
 ;按照Burst扇形发射，仅影响ROT类型<BR>AttachFire.RadialAngle=180 
 ;按照Burst扇形发射，分割的角度<BR>AttachFire.RadialZ=yes 
 ;按照Brust扇形发射，调整Z方向，比如Burst=8时，Z方向01233210依次射出<BR>AttachFire.SimulateBurst=no 
-;模拟原版的Burst有延迟的发射每一个武器<BR>AttachFire.SimulateBurstDelay=7 
-;模拟原版的Burst时每次发射的间隔< 
-BR>AttachFire.SimulateBurstMode=0;模拟原版的Burst模式，当FLH的L不为0时，0=不切换左右，1=LRLRLRLR，2=LLLLRRRR，3=LR*Burst<BR>; 
+;模拟原版的Burst有延迟的发射每一个武器<BR>AttachFire.SimulateBurstDelay=7;模拟原版的Burst时每次发射的间隔&lt;BR&gt;AttachFire.SimulateBurstMode=0;模拟原版的Burst模式，当FLH的L不为0时，0=不切换左右，1=LRLRLRLR，2=LLLLRRRR，3=LR*Burst<BR>; 
 发射条件<BR>AttachFire.Feedback=no ;攻击武器发射者<BR>AttachFire.OnlyFireInTransport=no 
 ;只有在载具内才能使用这个附加武器<BR>AttachFire.UseAlternateFLH=no 
 ;在载具内时，不使用AttachFire指定的FLH而是启用载具对应的FLH<BR>AttachFire.OnlyFireWhenHP=0%,100% 
@@ -221,8 +219,10 @@ BR>AttachFire.SimulateBurstMode=0;模拟原版的Burst模式，当FLH的L不为0时，0=不切换
 ;能否朝同阵营目标发射<BR>AttachFire.AffectsAllies=yes 
 ;能否朝友军目标发射<BR>AttachFire.AffectsEnemies=yes 
 ;能否朝敌军目标发射<BR>AttachFire.AffectsCivilian=yes ;能否朝中立目标发射</div>	
-	<div id="winchm_template_footer">     
-          &nbsp;</div>
+	<div id="winchm_template_footer"><SPAN 
+style='FONT-SIZE: medium; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(24,25,28); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>注：AttachFire.CheckVersus对护甲继承的算法有误(<A 
+href="https://github.com/ChrisLv-CN/KratosPP/issues/17">https://github.com/ChrisLv-CN/KratosPP/issues/17</A>)</SPAN>     
+          </div>
 </div>
 
 </body>
